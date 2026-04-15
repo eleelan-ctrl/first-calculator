@@ -18,3 +18,5 @@ Also do tell me (if possible since I barely know GitHub) if I should change some
 4. Division
 5. Exponentiation
 6. Floor Division
+
+PS: Do tell me if I got anything wrong here
